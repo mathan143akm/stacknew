@@ -1,0 +1,52 @@
+.skilsyoulearn {
+    background-color:black;
+    width: 1320px;
+    border: 15px solid grey;
+    padding: 9px;
+    margin: 20px;
+    height:389px;
+    color: aliceblue;
+  }
+  .modul {
+    background-color:gainsboro;
+    width:599px;
+    border: 15px solid gainsboro;
+    padding: 9px;
+    margin: 20px;
+    height:439px;
+    color:black;
+  }
+  .techsyl {
+    background-color:grey;
+    width:1289px;
+    padding: 9px;
+    margin: 20px;
+    height:439px;
+    color:black;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .navba2 {
+    position: sticky;
+    top: 0%;
+    z-index:1;
+  }

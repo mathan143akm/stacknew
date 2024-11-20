@@ -1,0 +1,47 @@
+
+  .skills2 {
+    background-color:black;
+    width: 500px;
+    border-radius:39px;
+    border: 15px solid red;
+    padding: 9px;
+    margin: 20px;
+    height:450px;
+    color: aliceblue;
+  }
+  .skills3 {
+    background-color:black;
+    width: 500px;
+    border-radius:39px;
+    border: 15px solid red;
+    padding: 9px;
+    margin: 20px;
+    height:450px;
+    color: aliceblue;
+  }
+  .skills4 {
+    background-color:black;
+    width: 500px;
+    border-radius:39px;
+    border: 15px solid red;
+    padding: 9px;
+    margin: 20px;
+    height:450px;
+    color: aliceblue;
+  }
+  .skills5 {
+    background-color:black;
+    width: 500px;
+    border-radius:39px;
+    border: 15px solid red;
+    padding: 9px;
+    margin: 20px;
+    height:450px;
+    color: aliceblue;
+  }
+.nawba {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
